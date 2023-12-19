@@ -8,6 +8,8 @@ obj = {
     name : "Pavlo",
     age : 25,
 }
+name2 = "nePavlo";
+
 
 console.log(typeof name);
 console.log(typeof age);
@@ -18,3 +20,4 @@ console.log(Infinity + divideon0);
 console.log(typeof BigInt);
 console.log(typeof symbol);
 console.log(typeof obj);
+console.log(typeof name2);
